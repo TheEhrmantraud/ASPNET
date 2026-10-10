@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("p8api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39dc480d4b6cacbdfb88ec28090b48ee692e7dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("p8api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("p8api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

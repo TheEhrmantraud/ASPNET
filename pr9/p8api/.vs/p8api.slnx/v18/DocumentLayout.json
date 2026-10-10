@@ -1,18 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\",
+  "WorkspaceRootPath": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\repositories\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\aspnet3\\pr9\\p8api\\p8api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|c:\\users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C79CC4B-3D2A-ED58-4AB0-6664F799CBA1}|p8api\\p8api.csproj|solutionrelative:p8api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,23 +63,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "p8api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "p8api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-15T09:33:39.91Z",
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "p8api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "p8api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:53:26.627Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Repositories\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "p8api\\Repositories\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Repositories\\ICartRepository.cs",
+              "RelativeToolTip": "p8api\\Repositories\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:10:26.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "p8api\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "p8api\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T05:57:53.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "p8api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "p8api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T05:57:50.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "p8api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "p8api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T08:35:20.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "p8api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "p8api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-15T09:33:39.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\appsettings.json",
               "RelativeDocumentMoniker": "p8api\\appsettings.json",
-              "ToolTip": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\appsettings.json",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\appsettings.json",
               "RelativeToolTip": "p8api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -67,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Program.cs",
               "RelativeDocumentMoniker": "p8api\\Program.cs",
-              "ToolTip": "C:\\Users\\12\\source\\repos\\pr9\\pr9\\p8api\\p8api\\Program.cs",
+              "ToolTip": "C:\\Users\\12\\source\\repos\\ASPNET3\\pr9\\p8api\\p8api\\Program.cs",
               "RelativeToolTip": "p8api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T09:23:23.577Z"
             }
